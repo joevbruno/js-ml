@@ -59,3 +59,7 @@ C++ Example
 
 ## VR
 + https://facebook.github.io/react-vr/
+
+## Scrapers
++ https://www.npmjs.com/package/google-scraper
++ https://www.npmjs.com/package/scrape-it
