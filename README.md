@@ -14,6 +14,7 @@
 + Wink: https://github.com/decisively/wink-naive-bayes-text-classifier
 + Word 2 Vector: https://github.com/LeeXun/word2vector
 + Keyworder: https://www.npmjs.com/package/keyworder
++ Watson: https://www.npmjs.com/package/watson-developer-cloud
 
 ## NLP Like
 + Rita: https://www.npmjs.com/package/rita
