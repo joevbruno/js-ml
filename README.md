@@ -46,3 +46,16 @@
 C++ Example
 + https://www.npmjs.com/package/qminer
 + https://www.npmjs.com/package/annoy
+
+## Chatbots
++ https://www.npmjs.com/package/claudia-bot-builder
++ https://www.npmjs.com/package/talkify
+
++ https://codepen.io/zekenie/pen/EKLJPr
+
+## Chatbot Integ.
++ https://www.npmjs.com/package/slack-chat
+
+
+## VR
++ https://facebook.github.io/react-vr/
