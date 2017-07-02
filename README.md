@@ -1,9 +1,10 @@
 # js-ml
 
 ## Data Normalizer
-https://www.npmjs.com/package/feature-scaler
-https://github.com/procoru/node-myml/blob/master/src/html-extractor/index.js
-https://www.npmjs.com/package/intent-tools
++ https://www.npmjs.com/package/feature-scaler
++ https://github.com/procoru/node-myml/blob/master/src/html-extractor/index.js
++ https://www.npmjs.com/package/intent-tools
++ https://www.npmjs.com/package/data-formatter
 
 ## Data Gathering
 + https://www.npmjs.com/package/wikiminer
