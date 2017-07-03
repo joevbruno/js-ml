@@ -5,6 +5,7 @@
 + https://github.com/procoru/node-myml/blob/master/src/html-extractor/index.js
 + https://www.npmjs.com/package/intent-tools
 + https://www.npmjs.com/package/data-formatter
++ https://github.com/duyetdev/node-textcleaner
 
 ## Data Gathering
 + https://www.npmjs.com/package/wikiminer
@@ -19,12 +20,14 @@
 ## NLP Like
 + Rita: https://www.npmjs.com/package/rita
 + Summary: https://www.npmjs.com/package/nodejs-text-summarizer
++ https://www.npmjs.com/package/sum
 
 ## Keywords
 + https://github.com/bxjx/gramophone
 
 ## Sentiment
 + https://www.npmjs.com/package/ml-sentiment
++ https://www.npmjs.com/package/sentiment
 
 ## General ML
 + ML: https://github.com/mljs/ml
